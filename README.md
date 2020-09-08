@@ -1,5 +1,5 @@
 # Star Wars Repo
 
-![capa.png](capa do Star Wars)
+![Screenshot](capa.png)
 
 Este repositorio serve de exemplo para estudo do git e github
